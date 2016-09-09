@@ -1,0 +1,141 @@
+Lap trinh huong doi tuong
+IT3040
+Trong mon hoc nay chung ta se lam quen voi ngon ngu lap trinh java va cac ki thuat lap trinh huong doi tuong.
+Input and Output
+TN
+De
+Lop doc file trong java la
+Reader
+~FileOutputStream
+Writer
+Scanner
+TN
+TrungBinh
+Lop doc file theo tung dong
+~BufferedReader
+BufferedWriter
+Writer
+Reader
+TN
+Kho
+Lop ghi file theo tung dong
+BufferedReader
+~BufferedWriter
+Writer
+Reader
+TL
+De
+Trinh bay khai niem ke thua trong Java.
+Ke thua la ki thuat tai su dung ma nguon thong qua lop.Khac voi ket tap la tai su dung ma nguon thong qua doi tuong.
+TL
+TrungBinh
+Trinh bay su khac nhau giua ke thua va ket tap.
+Giong: deu la tai su dung ma nguon.Khac: ke thua thi tai su dung thong qua lop, con ket tap thi thong qua doi tuong.
+#
+Giao dien do hoa
+TN
+De
+Goi giao dien do hoa la
+Java.lang
+~Java.swing
+Java.until
+Java.IO
+TN
+De
+Nut bam trong giao dien la doi tuong thuoc class nao?
+~Button
+Label
+Checkbox
+CheckboxGroup
+TN
+TrungBinh
+Ham xu ly su kien nut bam trong java?
+ButtonEvent
+~actionPerformed
+JbuttonFrame
+sqrt
+TN
+Kho
+Class de bat xu kien trong java?
+~ActionListioner
+actionPerformed
+setDapAn
+getDapAn
+TL
+TrungBinh
+Hay trinh bay su khac nhau va giong nhau giua java.swing va java.awt
+Java.swing ho tro giao dien do hoa dep hon java.awt
+#
+Lap trinh tong quat
+TL
+TrungBinh
+Lap trinh tong quat la gi?
+Lap trinh tong quat la mot class hoac 1 phuong thuc co the nhan nhieu kieu du lieu dau vao.Lap trinh tong quat bao gom ca upcasting va downcasting.
+TN
+De
+Qui uoc dat ten cua kieu du lieu la 1 collection
+~E
+T
+V
+U
+TN
+TrungBinh
+Lop tong quat khong nhan kieu du lieu nao sau day?
+String
+Information
+Interger
+~int
+TN
+De
+De gioi han kieu du lieu tong quat thi ta dung tu khoa nao sau day?
+include
+goto
+~extends
+implements
+TN
+Kho
+Giao dien danh sach trong collection la?
+Interface Collection
+Interface Set
+~Interface List
+Interface Map
+#
+Ngoai Le
+TN
+De
+Lop cha cua lop Exception
+~Throwable
+Error
+FileNotFoundException
+IOException
+TN
+TrungBinh
+Tu khoa nao khong phai la tu khoa trong bat va xu ly ngoai le?
+try
+catch
+finally
+~for
+TN
+De
+Phuong thuc lay thong ti cua ngoai le?
+new Throwable(String s)
+~String getMessage()
+String getString
+void printStackTrace()
+TL
+Kho
+Trinh bay ve lop Error
+Gom cac ngoai le nghiem trong khong the kiem tra.La ngoai le khong the phuc hoi.Va khong ca kiem tra trong ma nguon.
+TL
+De
+Trinh bay ve lop Exception?
+Chua cac ngoai le nen/phai bat va xu ly hoac uy nhiem.
+TL
+Kho
+Trinh bay dac diem cua khoi try-catch long nhau?
+Nhung phan nho trong khoi ma sinh ra mot loi,nhung toan bo khoi thi lai sinh ra mot so loi khac.Can co cac xu ly ngoai le long nha.
+TL
+Kho
+Dac diem cua khoi finally?
+Dam bao thuc hien cac cong viec can thiet khi co ngoai le xay ra.
+# 
